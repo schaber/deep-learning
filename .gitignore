@@ -6,6 +6,8 @@ embeddings/text8.zip
 
 transfer-learning/flower_photos/*
 transfer-learning/flower_photos.tar.gz
+transfer-learning/codes
+transfer-learning/labels
 
 
 image-classification/cifar-10-python.tar.gz
