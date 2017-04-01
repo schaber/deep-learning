@@ -3,3 +3,25 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+
+
+image-classification/cifar-10-python.tar.gz
+image-classification/image_classification.data*
+image-classification/preprocess_batch_*.p
+image-classification/preprocess_training.p
+image-classification/preprocess_validation.p
+image-classification/cifar-10-batches-py/*
+image-classification/Archive.zip
+
+sentiment-rnn/labels.txt
+sentiment-rnn/reviews.txt
+
+tv-script-generation/save.index
+tv-script-generation/save.meta
+tv-script-generation/preprocess.p
+tv-script-generation/params.p
+
+
+*/.ipynb_checkpoints/*
+*/__pycache__/*
+*/save.data-*
